@@ -4,5 +4,6 @@
 👾Pronounce is J as in J( 'can call me Je)
 ---
 <p aligin="center">
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=J2Courier&show_icons=true&theme=radical)](https://github.com/J2Courier)
+  <a href="https://github.com/J2Courier">
+  <img src="https://github-readme-stats.vercel.app/api?username=J2Courier&show_icons=true&theme=radical"/>
 </p>
