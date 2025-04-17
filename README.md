@@ -1,9 +1,10 @@
-🐍Starter 
-📽️Got no life
-🦠Struggling to solve problems
+🐍Starter <br>
+📽️Got no life <br>
+🦠Struggling to solve problems <br>
 👾Pronounce is J as in J( 'can call me Je)
+
 ---
-<p aligin="center">
-  <a href="https://github.com/J2Courier">
-  <img src="https://github-readme-stats.vercel.app/api?username=J2Courier&show_icons=true&theme=radical"/>
-</p>
+
+## My GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
