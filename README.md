@@ -7,4 +7,4 @@
 
 ## My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=J2Courier&show_icons=true&theme=radical)](https://github.com/J2Courier)
